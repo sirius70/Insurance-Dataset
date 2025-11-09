@@ -1,4 +1,4 @@
-About this Dataset
+## About this Dataset
 Context
 The venerable insurance industry is no stranger to data driven decision making. Yet in today's rapidly transforming digital landscape, Insurance is struggling to adapt and benefit from new technologies compared to other industries, even within the BFSI sphere (compared to the Banking sector for example.) Extremely complex underwriting rule-sets that are radically different in different product lines, many non-KYC environments with a lack of centralized customer information base, complex relationship with consumers in traditional risk underwriting where sometimes customer centricity runs reverse to business profit, inertia of regulatory compliance - are some of the unique challenges faced by Insurance Business.
 
@@ -16,9 +16,9 @@ This dataset contains 1338 rows of insured data, where the Insurance charges are
 Inspiration
 This relatively simple dataset should be an excellent starting point for EDA, Statistical Analysis and Hypothesis testing and training Linear Regression models for predicting Insurance Premium Charges.
 
-Proposed Tasks:
+## Proposed Tasks:
 
-Exploratory Data Analytics
-Statistical hypothesis testing
-Statistical Modeling
-Linear Regression
+- Exploratory Data Analytics
+- Statistical hypothesis testing
+- Statistical Modeling
+- Linear Regression
